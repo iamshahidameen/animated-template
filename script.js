@@ -1,1 +1,1 @@
-console.log("Hello, World!");
+console.log("Animated template on AOS");
